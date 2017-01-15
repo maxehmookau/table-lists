@@ -1,0 +1,25 @@
+- name: Table 1
+  people:
+    - Max Woolf
+    - Ciara Costello
+    - Emma Woolf
+    - Hugh Rickards
+    - Angela Power
+    - Tony Costello
+    - Siobhan Costello
+    - Clare Costello
+    - Ellie Costello
+    - Edie Woolf
+
+- name: Table 2
+  people:
+    - Myra Woolf
+    - Ian Woolf
+    - Matt Woolf
+    - Louis Van Boxel-Woolf
+    - Tom Van Boxel-Woolf
+    - Alex Van Boxel-Woolf
+    - Darren Selman
+    - Freya Selman
+    - Deborah Selman
+    - Erika Berlin
